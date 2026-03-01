@@ -115,6 +115,8 @@ This system can be used for:
 - Designed interactive UI using Streamlit
 
 ---
+
+![screenshot](https://github.com/tanishkagoyal2804/LLM-Document-Assistant/blob/master/Screenshot%202026-03-01%20163656.png)
 👩‍💻 Author
 
 Tanishka Goyal  
