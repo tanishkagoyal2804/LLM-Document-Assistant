@@ -117,7 +117,9 @@ This system can be used for:
 ---
 
 ![screenshot](https://github.com/tanishkagoyal2804/LLM-Document-Assistant/blob/master/Screenshot%202026-03-01%20163656.png)
-!]screenshot](https://github.com/tanishkagoyal2804/LLM-Document-Assistant/blob/master/Screenshot%202026-03-01%20163745.png)
+![screenshot](https://github.com/tanishkagoyal2804/LLM-Document-Assistant/blob/master/Screenshot%202026-03-01%20163745.png).
+![screenshot](https://github.com/tanishkagoyal2804/LLM-Document-Assistant/blob/master/Screenshot%202026-03-01%20163755.png)
+
 👩‍💻 Author
 
 Tanishka Goyal  
